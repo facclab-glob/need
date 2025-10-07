@@ -60,11 +60,16 @@ Todos os usuários (Administrador, Atendente e Doador) concentram os atributos d
 
 A figura 1 apresenta o Diagrama de Classes desse modelo, e a figura 2 o D-ER entre Atendente, Administrador e Unidade em relação ao estoque.
 
-
 ![]()
 <img src="projeto/Diagrama de Classe.png">
-> Figura 1 - Diagrama de Classes
+> Figura 1 - Diagrama de Classes.
 
 ![]()
 <img src="projeto/Diagrama de Entidade e Relacionamento.png">
-> Figura 2 - Diagrama Entidade Relacionamento entre Atendente, Administrador e Unidade em relação ao estoque
+> Figura 2 - Diagrama Entidade Relacionamento entre Atendente, Administrador e Unidade em relação ao estoque.
+
+O diagrama de estados (figura 3) representa o ciclo de vida de uma UNIDADE no sistema, tendo como base a condição atual da mesma, podendo ser ativa, suspensa, desativada ou removida do sistema.
+
+![]()
+<img src="projeto/Diagrama de Estados.png">
+> Figura 3 - Diagrama de Estados de uma Unidade em relação ao sistema.
