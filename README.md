@@ -31,7 +31,7 @@ A solução proposta é uma plataforma simples e objetiva, onde o administrador 
 |Cadastrar quantidade máxima de estoque	| x |   |   |
 |Registrar retirada de bolsas de sangue	|   | x |   |
 |Registrar depósito de bolsas de sangue |   | x |   |
-|Visualizar necessidades                |   |   | x |
+|Visualizar necessidades                | x |   | x |
 |Consultar unidades               	| x |   | x |
 
 
