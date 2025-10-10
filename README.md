@@ -68,13 +68,13 @@ A figura 1 apresenta o Diagrama de Classes desse modelo, e a figura 2 o D-ER ent
 <img src="projeto/Diagrama de Entidade e Relacionamento.png">
 > Figura 2 - Diagrama Entidade Relacionamento entre Atendente, Administrador e Unidade em relação ao estoque.
 
-O diagrama de estados (figura 3) representa o ciclo de vida de uma UNIDADE no sistema, tendo como base a condição atual da mesma, podendo ser ativa, suspensa, desativada ou removida do sistema.
+O Diagrama de Estados (figura 3) representa o ciclo de vida de uma UNIDADE no sistema, tendo como base a condição atual da mesma, podendo ser ativa, suspensa, desativada ou removida do sistema.
 
 ![]()
 <img src="projeto/Diagrama de Estados.png">
 > Figura 3 - Diagrama de Estados de uma Unidade em relação ao sistema.
 
-O diagrama de atividade (figura 4) representa as operações possíveis que o Administrador pode realizar no sistema.
+O Diagrama de Atividade (figura 4) representa as operações possíveis que o Administrador pode realizar no sistema.
 
 ![]()
 <img src="projeto/Diagrama de Atividade.png">
