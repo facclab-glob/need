@@ -1,4 +1,4 @@
-## Need V 1.0
+# Need V 1.0
 
 ### 1. Apresentação
 
@@ -80,7 +80,7 @@ O Diagrama de Atividade (figura 4) representa as operações possíveis que o Ad
 <img src="projeto/Diagrama de Atividade.png">
 > Figura 4 - Diagrama de Atividade do Administrador no sistema.
 
-### 4. Ilustração
+### 4. Representação
 
 #### Banco de dados
 
