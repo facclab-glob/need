@@ -79,3 +79,13 @@ O Diagrama de Atividade (figura 4) representa as operações possíveis que o Ad
 ![]()
 <img src="projeto/Diagrama de Atividade.png">
 > Figura 4 - Diagrama de Atividade do Administrador no sistema.
+
+### 4. Ilustração
+
+#### Banco de dados
+
+Elaboramos uma ilustração com dados fictícios que mostram de maneira sucinta como funcionará o sistema.
+
+![]()
+<img src="projeto/Ilustração Banco de Dados.pdf">
+> Figura 5 - Ilustração do Banco de Dados.
