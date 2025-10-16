@@ -87,5 +87,5 @@ O Diagrama de Atividade (figura 4) representa as operações possíveis que o Ad
 Elaboramos uma ilustração com dados fictícios que mostram de maneira sucinta como funcionará o sistema.
 
 ![]()
-<img src="projeto/Ilustração Banco de Dados.pdf">
+<img src="projeto/Ilustração do banco de dados.png">
 > Figura 5 - Ilustração do Banco de Dados.
