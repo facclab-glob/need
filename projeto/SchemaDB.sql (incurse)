@@ -1,0 +1,17 @@
+CREATE TABLE Sangue (
+    id_sang INT PRIMARY KEY NOT NULL,
+    tipo_sang CHAR(2) NOT NULL
+);
+
+CREATE TABLE Unidade (
+    id_unidade INTEGER PRIMARY KEY AUTOINCREMENT,
+    nome_unidade VARCHAR(50) NOT NULL,
+    cidade VARCHAR(50) NOT NULL,
+    contato VARCHAR(50)
+);
+
+CREATE TABLE Estoque (
+    id_estoq INTEGER PRIMARY KEY AUTOINCREMENT,
+    id_unidade INT NOT NULL,
+    FOREIGN KEY (id_unidade) REFERENCES Unidade(id_unidade)
+);
