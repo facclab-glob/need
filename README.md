@@ -1,4 +1,4 @@
-<img src="projeto/NEED LOGO.png">
+<img src="projeto/NEED_LOGO.png">
 
 # Need V 1.0
 
