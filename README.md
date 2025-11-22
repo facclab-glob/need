@@ -91,3 +91,35 @@ Elaboramos uma ilustração com dados fictícios que mostram de maneira sucinta 
 ![]()
 <img src="projeto/Ilustração do banco de dados.png">
 > Figura 5 - Ilustração do Banco de Dados.
+
+#### Baixa fidelidade
+
+Elaboramos ilustrações com dados fictícios que mostram como serão organizadas as telas de Atendente e Doador.
+
+![]()
+<img src="projeto/Tela de atendente.png">
+> Figura 6 - Ilustração tela de Atendente.
+
+![]()
+<img src="projeto/Tela de doador.png">
+> Figura 7 - Ilustração tela de Doador.
+
+### 5. Prototipação
+
+#### Alta fidelidade
+
+Como prototipação principal do nosso projeto elaboramos uma ilustrações com dados fictícios que mostram como serão organizadas as telas de Atendente e Doador agora em alta fidelidade, e maior conformidade com a maneira que o sistema funcionará. Além disso, para ilustrações referente às telas de Doador, fizemos uma tela mobile e outra desktop, para que o doador se sinta livre para acessar da melhor maneira possível.
+
+![]()
+<img src="projeto/Tela de atendente- Alta fidelidade.png">
+> Figura 8 - Ilustração tela de Atendente em alta fidelidade.
+
+![]()
+<img src="projeto/Tela de doador - Alta fidelidade_mobile.png">
+> Figura 9 - Ilustração tela de Doador mobile em alta fidelidade.
+
+![]()
+<img src="projeto/Tela de doador - Alta fidelidade_desktop.png">
+> Figura 10 - Ilustração tela de Doador desktop em alta fidelidade.
+
+<img src="projeto/NEED_LOGO_FINAL.png">
