@@ -28,6 +28,7 @@ INSERT INTO Estoque (qtd_estoque, capacidade, Unidade_idUnidade, Sangue_idSangue
 (40, 100, 2, 1), -- Campinas - A+
 (15, 90, 2, 3),  -- Campinas - B+
 (8, 70, 2, 5),   -- Campinas - AB+
+(30, 100, 3, 1), -- Rio - A+  
 (20, 100, 3, 7), -- Rio - O+
 (6, 80, 3, 8),   -- Rio - O-
 (12, 100, 4, 2), -- BH - A-
